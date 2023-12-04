@@ -1,0 +1,10 @@
+1.- Formado como Ing. Téc. en Informática de Gestión (en 2006)
+2.- Experiencia de 4 años (2006-2010) en entornos J2EE-WEB en Accenture (Oficina de Málaga) / Clientes: AGPD, Orange.
+3.- Experiencia de 3 años (2010-2013) con tecnologías Java, SQLServer, framework JSF entre otros (Clientes: Telefónica y 061)
+4.- Tecnologías con alguna noción (2000 a 2023):
+- Gestores de configuración: SVN, CVS, Visual SourceSafe, Git.
+- Lenguajes de programación: Java, JS, C, C++, Visual Basic, PHP.
+- Frameworks Java: Struts, Spring, JSF
+- Servicios web: SOAP/XML, Restful/JSON
+- Frameworks acceso a datos: Ibatis-DAO (MyBatis)
+- SGBD: MySQL, Oracle, SQLServer
